@@ -3,18 +3,17 @@ Big Data Q&A
 
 What is in this repo?
 
-- This contains notes that I made while teaching Hadoop, Spark and
-    other Big Data technologies
+- Notes I made teaching Hadoop, Spark and other Big Data technologies.
 
-- These are based on questions that came up in classes.
+- Questions that came up in classes and answers.
 
 Why should I read this?
 
-- If you are planning to teach Hadoop or Spark these notes can be
-    useful in preparing for your classes.
+- If you are planning to teach Hadoop or Spark these notes can help
+    you prepare.
 
-- If you are preparing for certification exams these can help give you
-    more material to prep on.
+- If you are planning to take a certification exam they can
+    give you an edge.
 
-- If you are planning to use Hadoop or Spark in production these cover
-    caveats and use cases you might encounter.
+- If you are planning to use Hadoop or Spark in production they can
+    illustrate caveats and use cases you will encounter.
