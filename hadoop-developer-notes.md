@@ -1,7 +1,3 @@
-% Hadoop Developer Notes
-% May, 2015
-% Asim Jalis
-
 Hadoop
 ======
 

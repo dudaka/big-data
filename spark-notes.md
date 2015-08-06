@@ -1,7 +1,3 @@
-% Spark Notes
-% 
-% 
-
 Spark
 =====
 
